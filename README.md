@@ -21,8 +21,8 @@ Anggota Kelompok 13
 
 ### Langkah Pengerjaan:
 
-1. Jalankan kode arduino pada [file berikut](./Project 1/MQTT.ino)
-2. Buka Html yang telah disediakan untuk melihat hasil MQTT pada [file berikut](./Project 1/MQTT.ino)
+1. Jalankan kode arduino pada [file berikut](https://github.com/DorifutoBoyz/FP-Integrasi-Sistem/blob/main/Project%201/MQTT.ino)
+2. Buka Html yang telah disediakan untuk melihat hasil MQTT pada [file berikut](https://github.com/DorifutoBoyz/FP-Integrasi-Sistem/blob/main/Project%201/Project1.html)
 
 ### Dokumentasi Pengerjaan :
 
